@@ -1,0 +1,1 @@
+Provides "Log in with X" buttons that make it super simple to allow your users to log in to your Vaadin based application using a OAuth service (Facebook, Twitter, LinkedIn, ...)
